@@ -1,0 +1,9 @@
+__pycache__/
+
+qml/main.cpp
+qml/qml.proxy
+qml/qml.pro.user
+qml/qml.qrc
+
+build.bat
+*.db
